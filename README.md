@@ -29,6 +29,7 @@ A comprehensive analysis of Amsterdam's urban mobility infrastructure using open
 - [Future Work](#-future-work)
 - [Citation](#-citation)
 - [License](#-license)
+- [Contact](#-contact)
 
 ---
 
@@ -328,18 +329,17 @@ If you use this work in your research, please cite:
 ```
 Urban Mobility Analytics (2026). Amsterdam Urban Mobility Analysis: 
 A Comprehensive Technical Report on Multimodal Transportation Infrastructure 
-(Version 3.3). Technical Report 2026-01.
+(Technical Report 2026-01).
 ```
 
 BibTeX:
 ```bibtex
 @techreport{uma2026amsterdam,
   title={Amsterdam Urban Mobility Analysis: A Comprehensive Technical Report on Multimodal Transportation Infrastructure},
-  author={Urban Mobility Analytics},
+  author={Zafari, Ghulam Abbas},
   year={2026},
   number={2026-01},
-  version={3.3},
-  institution={Urban Mobility Analytics}
+  institution={Politecnico di Milano}
 }
 ```
 
@@ -351,24 +351,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 **Contributors**
+## 👥 **Author**
 
-- **Project Lead**: Urban Mobility Analytics
-- **Data Science**: Spatial Analytics Team
-- **Validation**: Transport Research Group
+**Ghulam Abbas Zafari**
+- MSc Student in Mobility Engineering
+- Politecnico di Milano
+- Via Vittorio Veneto 22, Bresso, Milan, Italy 20091
 
 ---
 
 ## 📧 **Contact**
 
-For questions, collaboration, or data requests:
-- **Email**: ghulamabbas.zafari@mail.polimi.it| ghulamabbas.zafari@gmail.com
-- **GitHub Issues**: [Open an issue](https://github.com/zafariabbas68/Amsterdam-Urban-Mobility-Analysis.git)
+For questions, collaboration opportunities, or data requests:
+
+- **Email**: ghulamabbas.zafari@mail.polimi.it | ghulamabbas.zafari@gmail.com
+- **Address**: Via Vittorio Veneto 22, Bresso, Milan, Italy 20091
+- **GitHub**: [@zafariabbas68](https://github.com/zafariabbas68)
+- **Project Repository**: [Amsterdam-Urban-Mobility-Analysis](https://github.com/zafariabbas68/Amsterdam-Urban-Mobility-Analysis.git)
+- **Issues**: [Open an issue](https://github.com/zafariabbas68/Amsterdam-Urban-Mobility-Analysis/issues)
 
 ---
 
 <div align="center">
   <p><strong>Amsterdam Urban Mobility Analysis v3.3</strong></p>
-  <p>© 2026 Urban Mobility Analytics. All rights reserved.</p>
+  <p>© 2026 Ghulam Abbas Zafari. All rights reserved.</p>
+  <p>Politecnico di Milano - Mobility Engineering</p>
   <p>⭐ Star this repository if you find it useful! ⭐</p>
 </div>
