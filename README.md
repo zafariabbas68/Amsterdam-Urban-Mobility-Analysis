@@ -363,7 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, collaboration, or data requests:
 - **Email**: ghulamabbas.zafari@mail.polimi.it| ghulamabbas.zafari@gmail.com
-- **GitHub Issues**: [Open an issue]()
+- **GitHub Issues**: [Open an issue](https://github.com/zafariabbas68/Amsterdam-Urban-Mobility-Analysis.git)
 
 ---
 
