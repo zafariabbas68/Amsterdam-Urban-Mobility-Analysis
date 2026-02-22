@@ -362,8 +362,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 **Contact**
 
 For questions, collaboration, or data requests:
-- **Email**: urban.mobility.analytics@example.com
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/amsterdam-urban-mobility-analysis/issues)
+- **Email**: ghulamabbas.zafari@mail.polimi.it| ghulamabbas.zafari@gmail.com
+- **GitHub Issues**: [Open an issue]()
 
 ---
 
